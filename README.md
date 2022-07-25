@@ -1,28 +1,21 @@
 <div align="center">
-  <h2> Hey there 👋 </h2>
+  <h3> ✧ Hi there! ✧ </h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/carolinascpereira/">Linkedin</a>
   </p>
 </div>
+<hr></hr>
 
+<p>My name is <b>Carolina</b> and I am currently finishing my bachelor degree on <i>Games and Multimedia</i>. I discovered my passion for video games at a young age, which influenced me into pursuing game development as a profession.</p>
+<p>I've developed 2D games on Unity using c# and 3D games on Unreal Engine using both blueprints and c++. I'm currently looking further to learn more about c++ and start learning other programing languagues such as javascript and python.</p>
 
-**carolinaapereira/carolinaapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div>
   <ul> 
     <li>✨</li>
     <li> 😊 My pronouns are <b>she/her</b>;</li>
     <li> 🌱 I'm developping my knowledge on <code>c#</code> and <code>c++</code> even further;</li>
     <li> 📫 My portfolio: WIP;</li>
+    <li> ⚡ Fun fact: FAVORITE GAME;</li>
   </ul>
 </div> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
