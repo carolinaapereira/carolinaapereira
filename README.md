@@ -1,7 +1,21 @@
-### Hi there 👋
+<div align="center">
+  <h2> Hey there 👋 </h2>
+  <p align="center">
+    <a href="https://www.giftegwuenu.dev">Mail</a> •
+    <a href="https://www.linkedin.com/in/carolinascpereira/">Linkedin</a>
+  </p>
+</div>
 
-<!--
+
 **carolinaapereira/carolinaapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <ul> 
+    <li>✨</li>
+    <li> 😊 My pronouns are <b>she/her</b>;</li>
+    <li> 🌱 I'm developping my knowledge on <code>c#</code> and <code>c++</code> further;</li>
+    <li> 📫 How to reach me: ;</li>
+  </ul>
+</div> 
 
 Here are some ideas to get you started:
 
@@ -13,4 +27,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
