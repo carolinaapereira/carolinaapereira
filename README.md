@@ -1,7 +1,6 @@
 <div align="center">
   <h2> Hey there 👋 </h2>
   <p align="center">
-    <a href="">Portfolio (WIP)</a> •
     <a href="https://www.linkedin.com/in/carolinascpereira/">Linkedin</a>
   </p>
 </div>
@@ -13,7 +12,7 @@
     <li>✨</li>
     <li> 😊 My pronouns are <b>she/her</b>;</li>
     <li> 🌱 I'm developping my knowledge on <code>c#</code> and <code>c++</code> even further;</li>
-    <li> 📫 How to reach me: ;</li>
+    <li> 📫 My portfolio: WIP;</li>
   </ul>
 </div> 
 
