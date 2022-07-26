@@ -6,8 +6,8 @@
 </div>
 <hr></hr>
 
-<p>My name is <b>Carolina</b> and I am currently finishing my bachelor degree on <i>Games and Multimedia</i>. I discovered my passion for video games at a young age, which influenced me into pursuing game development as a profession.</p>
-<p>I've developed 2D games on Unity using c# and 3D games on Unreal Engine using both blueprints and c++. I'm currently looking further to learn more about c++ and start learning other programing languagues.</p>
+  <p>My name is <b>Carolina</b> and I am currently finishing my bachelor degree on <i>Games and Multimedia</i>. I discovered my passion for video games at a young age,     which influenced me into pursuing game development as a profession.</p>
+  <p>I've developed 2D games on Unity using c# and 3D games on Unreal Engine using both blueprints and c++. I'm currently looking further to learn more about c++ and       start learning other programing languagues.</p>
 
 <div>
   <ul> 
@@ -18,3 +18,7 @@
   </ul>
 </div> 
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/68751288/180999464-f89a16ff-1ec8-4f0a-85ed-bf1c06449e22.png" width="560" height="300">
+    <p>Designed by <a href="http://www.freepik.com">pch.vector / Freepik</a></p>
+ </div>
