@@ -7,7 +7,7 @@
 <hr></hr>
 
   <p>My name is <b>Carolina</b> and I am currently finishing my bachelor degree on <i>Games and Multimedia</i>. I discovered my passion for video games at a young age,     which influenced me into pursuing game development as a profession.</p>
-  <p>I've developed 2D games on Unity using C# and 3D games on Unreal Engine using both blueprints and C++. I'm currently looking further to learn more about c++ and       start learning other programing languagues.</p>
+  <p>I've developed 2D games on Unity using C# and 3D games on Unreal Engine using both blueprints and C++. I'm currently looking to learn more about c++ and start learning other programing languagues.</p>
 
 <div>
   <ul> 
