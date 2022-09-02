@@ -16,9 +16,4 @@
     <li> 📫 You can check out my portfolio <a href="">here</a> (still a WIP);</li>
     <li> 🎮 My favorite games are <i>Life is Strange</i>, <i>Plague Tale</i> and <i>Stray</i>;</li>
   </ul>
-</div> 
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/68751288/180999464-f89a16ff-1ec8-4f0a-85ed-bf1c06449e22.png" width="560" height="300">
-    <p>Designed by <a href="http://www.freepik.com">pch.vector / Freepik</a></p>
- </div>
+</div>
