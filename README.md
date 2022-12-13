@@ -14,6 +14,6 @@
     <li> 😊 My pronouns are <b>she/her</b>;</li>
     <li> 🌱 I'm developping my knowledge on <code>C#</code> and <code>C++</code> even further;</li>
     <li> 📫 You can check out my portfolio <a href="https://carolinaapereira.github.io/">here</a>;</li>
-    <li> 🎮 My favorite games are <i>Life is Strange</i>, <i>Plague Tale</i> and <i>Stray</i>;</li>
+    <li> 🎮 My favorite games are <i>Life is Strange</i>, <i>Plague Tale</i> and <i>League of Legends</i>;</li>
   </ul>
 </div>
